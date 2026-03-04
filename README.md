@@ -1,53 +1,34 @@
 # 👋 Hola, soy José Gerónimo
 
 🎓 Estudiante de Ingeniería de Sistemas (8.º ciclo – Quinto Superior)  
-💻 Enfocado en Soporte TI, Infraestructura y Entornos Microsoft  
+💻 Enfocado en **Soporte TI**, Infraestructura y entornos Microsoft  
 📍 Lima, Perú  
 
 ---
 
-## 🚀 Perfil Profesional
+## 💼 Acerca de mí
 
-Estudiante con experiencia brindando soporte operativo a usuarios internos y gestionando información en entornos corporativos. Me caracterizo por ser organizado, proactivo y orientado a la resolución de incidencias de primer nivel.
-
-Tengo experiencia en:
-
-- ✅ Soporte operativo a usuarios internos
-- ✅ Gestión y validación de información en sistemas corporativos
-- ✅ Registro y control de inventario TI
-- ✅ Elaboración y seguimiento de reportes de incidencias
-- ✅ Uso de Microsoft 365 para gestión y seguimiento de casos
-- ✅ Coordinación con áreas internas para solución de problemas
+Soy un estudiante con experiencia en soporte operativo, gestión de incidencias y control de inventario TI. Me apasiona resolver problemas, mejorar procesos y seguir aprendiendo en tecnologías de infraestructura y administración de sistemas.
 
 ---
 
-## 🛠 Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas
 
-- 🐍 Python (Intermedio)
-- 🗄 SQL (Intermedio)
-- 📊 Excel / Microsoft 365
-- 📈 Power BI
-- 🔧 Git / GitHub
-- 🖥 Windows Server (básico – intermedio)
-- 🌐 Configuración básica de redes
-- 🛠 Soporte técnico (hardware y software)
-
----
-
-## 📚 Formación Complementaria
-
-- Cisco Networking Academy – Introduction to Networks
-- Cisco Networking Academy – Introduction to Cybersecurity
-- AWS Training – Machine Learning for NLP
+- 📌 Python (Intermedio)  
+- 🗄 SQL (Intermedio)  
+- 📊 Excel / Microsoft 365  
+- 📈 Power BI  
+- 🔧 Git / GitHub  
+- 🖥 Windows Server (Intermedio)  
+- 🌐 Redes básicas (configuración e identificación)
+- 🖱 Soporte técnico de hardware y software  
 
 ---
 
-## 📌 Intereses Profesionales
 
-- Soporte técnico de primer nivel
-- Administración básica de sistemas
-- Infraestructura TI
-- Gestión de activos tecnológicos
-- Seguridad informática básica
+## 📫 Contacto
+
+- 📧 Email: **jose.igbenavides@gmail.com**  
+- 💼 LinkedIn: **www.linkedin.com/in/josé-israel-geronimo-benavides-b9ab81392**
 
 ---
