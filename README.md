@@ -21,7 +21,7 @@ Interesado en seguir desarrollándome en:
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,azure,aws,python,mysql,sql,java,javascript,C#,arduino,postgres,git,github,vscode,powershell" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,azure,aws,python,mysql,sql,java,javascript,c#,arduino,postgres,git,github,vscode,powershell" />
 </p>
 
 ---
