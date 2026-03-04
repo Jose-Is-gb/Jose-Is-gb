@@ -12,22 +12,7 @@ Soy un estudiante con experiencia en soporte operativo, gestión de incidencias 
 
 ---
 
-## 📊 Estadísticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Is-gb&layout=compact&theme=tokyonight)
-
----
-
 ## 🛠️ Tecnologías y Herramientas
-
-- 📌 Python (Intermedio)  
-- 🗄 SQL (Intermedio)  
-- 📊 Excel / Microsoft 365  
-- 📈 Power BI  
-- 🔧 Git / GitHub  
-- 🖥 Windows Server (Intermedio)  
-- 🌐 Redes básicas (configuración e identificación)
-- 🖱 Soporte técnico de hardware y software  
 
 ![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css,git,github,linux,windows,aws,mysql,postgres,react,nodejs,vscode,azure)
 ---
@@ -39,3 +24,8 @@ Soy un estudiante con experiencia en soporte operativo, gestión de incidencias 
 - 💼 LinkedIn: **www.linkedin.com/in/josé-israel-geronimo-benavides-b9ab81392**
 
 ---
+
+## 📊 Estadísticas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Is-gb&layout=compact&theme=tokyonight)
+
