@@ -12,6 +12,12 @@ Soy un estudiante con experiencia en soporte operativo, gestión de incidencias 
 
 ---
 
+## 📊 Estadísticas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Is-gb&layout=compact&theme=tokyonight)
+
+---
+
 ## 🛠️ Tecnologías y Herramientas
 
 - 📌 Python (Intermedio)  
@@ -23,6 +29,7 @@ Soy un estudiante con experiencia en soporte operativo, gestión de incidencias 
 - 🌐 Redes básicas (configuración e identificación)
 - 🖱 Soporte técnico de hardware y software  
 
+![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css,git,github,linux,windows,aws,mysql,postgres,react,nodejs,vscode,azure)
 ---
 
 
