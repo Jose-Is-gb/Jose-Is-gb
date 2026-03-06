@@ -35,7 +35,6 @@ Interesado en seguir desarrollándome en:
 
 ## 📊 Estadísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jose-Is-gb&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Is-gb&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Jose-Is-gb&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Is-gb&layout=compact&theme=tokyonight)
