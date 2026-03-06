@@ -38,9 +38,3 @@ Interesado en seguir desarrollándome en:
 ![Stats](https://github-readme-stats.vercel.app/api?username=Jose-Is-gb&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Is-gb&layout=compact&theme=tokyonight)
-
-## 📊 GitHub Stats
-
-![José GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose-Is-gb&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Is-gb&layout=compact&theme=tokyonight)
