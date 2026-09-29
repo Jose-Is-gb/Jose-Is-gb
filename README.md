@@ -1,12 +1,12 @@
 # 👋 Hola, soy José Gerónimo
 
-🎓 Estudiante de Ingeniería de Sistemas Computacionales (9.º ciclo)
-💻 Enfocado en **Análisis de Datos, Automatización de Procesos y Desarrollo Web**
-📍 Lima, Perú  
+ Estudiante de Ingeniería de Sistemas Computacionales (9.º ciclo).
+ Enfocado en **Análisis de Datos, Automatización de Procesos y Desarrollo Web**.
+ Lima, Perú.
 
 ---
 
-## 💼 Acerca de mí
+## Acerca de mí
 
 Profesional en formación con experiencia en análisis de datos, automatización de procesos y soporte tecnológico. He participado en la elaboración de reportes, optimización de flujos operativos e implementación de soluciones web y de Business Intelligence. Me enfoco en aportar a la mejora de la eficiencia operativa mediante el uso de tecnologías, organización de información y herramientas de IA generativa.
 
@@ -18,7 +18,7 @@ Interesado en seguir desarrollándome en:
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 
 **Lenguajes y Tecnologías:** Python, SQL, HTML, CSS, JavaScript, Bootstrap
 **Herramientas y Analítica:** Power BI, Looker Studio, Excel, Git, GitHub, Trello
@@ -31,14 +31,14 @@ Interesado en seguir desarrollándome en:
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 - 📧 Email: **jose.igbenavides@gmail.com**
 - 💼 LinkedIn: [Perfil LinkedIn](https://www.linkedin.com/in/josé-israel-geronimo-benavides-b9ab81392)
 
 ---
 
-## 📊 Estadísticas
+## Estadísticas
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Jose-Is-gb&show_icons=true&theme=tokyonight)
 
